@@ -3,8 +3,7 @@
 
 Este é um site simples que criei com o objetivo de **compartilhar minhas receitas favoritas** com amigos, familiares e qualquer pessoa interessada em boa comida.
 
-🔗 **Acesse o site localmente**:  
-[Abra no navegador](file:///C:/Users/lirio/OneDrive/Documents/index.html)
+Acesse o site pelo arquivo anexado nesse repositório
 
 ## 🛠️ Algumas tecnologias utilizadas 
 
